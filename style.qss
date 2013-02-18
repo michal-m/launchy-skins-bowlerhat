@@ -42,14 +42,15 @@
 }
 
 #alternatives {
-	font: 10px "Arial";
-	background-color: #F5F5FA;
-	alternate-background-color: rgb(255,255,255);
-	color: #1A1A1A;
+	font: 21px "Arial";
+	background-color: rgb(55,55,65);
+	alternate-background-color: rgb(55,55,65);
+	color: #C3D2E1;
+	border-color: #282832;
 	border-style: solid;
-	border-width: 0px;
-	qproperty-geometry: rect(70 129 320 120);
-	padding: 0px 0px 0px 5px;
+	border-width: 1px;
+	qproperty-geometry: rect(70 139 320 120);
+	padding: 2px;
 }
 
 #alternativesPath {
