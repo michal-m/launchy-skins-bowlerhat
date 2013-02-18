@@ -1,0 +1,58 @@
+#launchy {
+}
+
+#opsButton {
+	border: none;
+	background: url(option.png);
+	qproperty-geometry: rect(395 11 10 11);
+}
+
+#opsButton:pressed {
+	border: none;
+	background-image: url(option_pressed.png);
+}
+
+#workingAnimation {
+	qproperty-geometry: rect(707 40 16 16);
+}
+
+#input {
+	font: 21px "Arial";
+	border-width: 0px;
+	background-color: rgba(0,244,120,0%);
+	border-style: solid;
+	color: #000000;
+	qproperty-alignment: AlignLeft;
+	qproperty-geometry: rect(26 32 280 24);
+}
+
+#output {
+	font: 21px "Arial";
+	font-style: Bold;
+	border-width: 0px;
+	background-color: rgba(0,244,120,0%);
+	border-style: solid;
+	color: #808080;
+	qproperty-alignment: AlignCenter;
+	qproperty-geometry: rect(70 89 320 32);
+}
+
+#outputIcon {
+	qproperty-geometry: rect(26 89 32 32);
+}
+
+#alternatives {
+	font: 10px "Arial";
+	background-color: #F5F5FA;
+	alternate-background-color: rgb(255,255,255);
+	color: #1A1A1A;
+	border-style: solid;
+	border-width: 0px;
+	qproperty-geometry: rect(70 129 320 120);
+	padding: 0px 0px 0px 5px;
+}
+
+#alternativesPath {
+	font: 10px "Arial";
+	color: rgb(221,221,221);
+}
