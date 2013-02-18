@@ -27,18 +27,18 @@
 }
 
 #output {
-	font: 21px "Arial";
-	font-style: Bold;
+	font: 24px "Arial";
 	border-width: 0px;
-	background-color: rgba(0,244,120,0%);
+	background-color: rgba(54,79,46,0%);
 	border-style: solid;
-	color: #808080;
-	qproperty-alignment: AlignCenter;
-	qproperty-geometry: rect(70 89 320 32);
+	border-color: #282832;
+	color: #C3D2E1;
+	qproperty-alignment: AlignLeft;
+	qproperty-geometry: rect(70 101 260 32);
 }
 
 #outputIcon {
-	qproperty-geometry: rect(26 89 32 32);
+	qproperty-geometry: rect(26 100 32 32);
 }
 
 #alternatives {
