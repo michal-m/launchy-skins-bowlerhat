@@ -4,7 +4,7 @@
 #opsButton {
 	border: none;
 	background: url(option.png);
-	qproperty-geometry: rect(395 11 10 11);
+	qproperty-geometry: rect(393 13 10 11);
 }
 
 #opsButton:pressed {
