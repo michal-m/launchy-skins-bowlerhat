@@ -17,13 +17,13 @@
 }
 
 #input {
-	font: 21px "Arial";
+	font: 24px "Arial";
 	border-width: 0px;
-	background-color: rgba(0,244,120,0%);
+	background-color: rgba(23,23,23,0%);
 	border-style: solid;
-	color: #000000;
+	color: #BFC3CC;
 	qproperty-alignment: AlignLeft;
-	qproperty-geometry: rect(26 32 280 24);
+	qproperty-geometry: rect(26 32 360 24);
 }
 
 #output {
