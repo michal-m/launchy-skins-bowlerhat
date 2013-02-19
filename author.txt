@@ -9,3 +9,8 @@ http://www.dirtdon.com/?p=1110
 
 Based on Alfredo skin by Art Blanc:
 http://artblanc.deviantart.com/art/Alfredo-for-Launchy-167144995
+
+--------------------------------------------------------------------------------
+IMPORTANT NOTE:
+This skin works best with either Name or the Path suggestion displayed, not both
+at the same time due to very limited styling available.
