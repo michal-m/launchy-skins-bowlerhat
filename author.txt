@@ -1,10 +1,11 @@
 ﻿Bowler Hat 1.0
-
-Inspired by Twitterrific Dark theme for Alfred App for OS X.
-Based on Alfredo skin by Art Blanc
-
 by Michał Musiał
-
 https://github.com/michal-m/launchy-skins-bowlerhat
 
-18-02-2013
+Latest revision 19/02/2013
+
+Inspired by Twitterrific Dark theme for Alfred App for OS X:
+http://www.dirtdon.com/?p=1110
+
+Based on Alfredo skin by Art Blanc:
+http://artblanc.deviantart.com/art/Alfredo-for-Launchy-167144995
