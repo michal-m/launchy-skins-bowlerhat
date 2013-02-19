@@ -60,6 +60,8 @@
 }
 
 #alternativesPath {
-	color: rgb(221,221,221);
+	color: rgb(119,164,208);
 	font: 10px "Arial";
+	padding: 10px;
+	selected-color: rgb(117,185,32);
 }
