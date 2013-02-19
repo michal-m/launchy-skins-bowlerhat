@@ -4,7 +4,7 @@
 #opsButton {
 	background: url(option.png);
 	border: none;
-	qproperty-geometry: rect(596 16 10 11);
+	qproperty-geometry: rect(606 20 10 11);
 }
 
 #opsButton:pressed {
@@ -23,7 +23,7 @@
 	color: #BFC3CC;
 	font: 28px "Arial";
 	qproperty-alignment: AlignLeft;
-	qproperty-geometry: rect(31 36 558 36);
+	qproperty-geometry: rect(41 40 558 36);
 }
 
 #output {
@@ -34,11 +34,11 @@
 	color: #C3D2E1;
 	font: 21px "Arial";
 	qproperty-alignment: AlignLeft;
-	qproperty-geometry: rect(75 105 521 32);
+	qproperty-geometry: rect(85 109 521 32);
 }
 
 #outputIcon {
-	qproperty-geometry: rect(31 101 32 32);
+	qproperty-geometry: rect(41 105 32 32);
 }
 
 #alternatives {
@@ -49,7 +49,7 @@
 	alternate-background-color: rgb(55,55,65);
 	selection-background-color: rgba(54,79,46);
 	selection-color: white;
-	qproperty-geometry: rect(21 142 580 120);
+	qproperty-geometry: rect(31 146 580 120);
 }
 
 #alternatives::item {
