@@ -2,14 +2,14 @@
 }
 
 #opsButton {
-	border: none;
 	background: url(option.png);
+	border: none;
 	qproperty-geometry: rect(596 16 10 11);
 }
 
 #opsButton:pressed {
-	border: none;
 	background-image: url(option_pressed.png);
+	border: none;
 }
 
 #workingAnimation {
@@ -17,22 +17,22 @@
 }
 
 #input {
-	font: 28px "Arial";
-	border-width: 0px;
 	background-color: rgba(23,23,23,0%);
 	border-style: solid;
+	border-width: 0px;
 	color: #BFC3CC;
+	font: 28px "Arial";
 	qproperty-alignment: AlignLeft;
 	qproperty-geometry: rect(31 36 558 36);
 }
 
 #output {
-	font: 21px "Arial";
-	border-width: 0px;
 	background-color: rgba(54,79,46,0%);
-	border-style: solid;
 	border-color: #282832;
+	border-style: solid;
+	border-width: 0px;
 	color: #C3D2E1;
+	font: 21px "Arial";
 	qproperty-alignment: AlignLeft;
 	qproperty-geometry: rect(75 105 521 32);
 }
@@ -53,13 +53,13 @@
 }
 
 #alternatives::item {
-	padding: 7px 10px 6px 30px;
 	border-bottom-color: #282832;
 	border-bottom-style: solid;
 	border-bottom-width: 1px;
+	padding: 7px 10px 6px 30px;
 }
 
 #alternativesPath {
-	font: 10px "Arial";
 	color: rgb(221,221,221);
+	font: 10px "Arial";
 }
