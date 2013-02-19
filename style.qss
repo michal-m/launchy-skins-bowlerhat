@@ -42,16 +42,18 @@
 }
 
 #alternatives {
-	font: 21px "Arial";
-	background-color: rgb(55,55,65);
-	alternate-background-color: rgb(55,55,65);
-	color: #C3D2E1;
 	border: none;
+	background-color: rgb(55,55,65);
+	color: #C3D2E1;
+	font: 21px "Arial";
+	alternate-background-color: rgb(55,55,65);
+	selection-background-color: rgba(54,79,46);
+	selection-color: white;
 	qproperty-geometry: rect(21 142 580 120);
 }
 
 #alternatives::item {
-	padding: 7px 0px 6px 30px;
+	padding: 7px 10px 6px 30px;
 	border-bottom-color: #282832;
 	border-bottom-style: solid;
 	border-bottom-width: 1px;
