@@ -4,7 +4,7 @@
 #opsButton {
 	border: none;
 	background: url(option.png);
-	qproperty-geometry: rect(393 13 10 11);
+	qproperty-geometry: rect(596 16 10 11);
 }
 
 #opsButton:pressed {
@@ -17,13 +17,13 @@
 }
 
 #input {
-	font: 24px "Arial";
+	font: 28px "Arial";
 	border-width: 0px;
 	background-color: rgba(23,23,23,0%);
 	border-style: solid;
 	color: #BFC3CC;
 	qproperty-alignment: AlignLeft;
-	qproperty-geometry: rect(26 32 360 24);
+	qproperty-geometry: rect(31 36 558 36);
 }
 
 #output {
@@ -34,11 +34,11 @@
 	border-color: #282832;
 	color: #C3D2E1;
 	qproperty-alignment: AlignLeft;
-	qproperty-geometry: rect(70 102 260 32);
+	qproperty-geometry: rect(75 105 521 32);
 }
 
 #outputIcon {
-	qproperty-geometry: rect(26 100 32 32);
+	qproperty-geometry: rect(31 101 32 32);
 }
 
 #alternatives {
@@ -49,7 +49,7 @@
 	border-color: #282832;
 	border-style: solid;
 	border-width: 1px;
-	qproperty-geometry: rect(70 139 320 120);
+	qproperty-geometry: rect(69 141 531 120);
 	padding: 2px;
 }
 
