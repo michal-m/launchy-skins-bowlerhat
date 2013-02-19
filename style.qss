@@ -46,11 +46,15 @@
 	background-color: rgb(55,55,65);
 	alternate-background-color: rgb(55,55,65);
 	color: #C3D2E1;
-	border-color: #282832;
-	border-style: solid;
-	border-width: 1px;
-	qproperty-geometry: rect(69 141 531 120);
-	padding: 2px;
+	border: none;
+	qproperty-geometry: rect(21 142 580 120);
+}
+
+#alternatives::item {
+	padding: 7px 0px 6px 30px;
+	border-bottom-color: #282832;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
 }
 
 #alternativesPath {
