@@ -23,7 +23,7 @@
 	color: #BFC3CC;
 	font: 28px "Arial";
 	qproperty-alignment: AlignLeft;
-	qproperty-geometry: rect(41 40 558 36);
+	qproperty-geometry: rect(41 38 558 36);
 }
 
 #output {
